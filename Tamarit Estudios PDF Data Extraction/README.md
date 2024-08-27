@@ -4,14 +4,14 @@ This project involves the development of a Python-based program designed to auto
 
 ### Table of Contents
 
-	•	Project Description
-	•	Tools and Technologies
-	•	Installation
-	•	Usage
-	•	Results
-	•	Contributing
-	•	License
-	•	Contact
+- Project Description
+- Tools and Technologies
+- Installation
+- Usage
+- Results
+- Contributing
+- License
+- Contact
 
 ### Project Description
 
@@ -19,10 +19,10 @@ This program extracts specific fields from PDF invoices, such as CUPS, total con
 
 ### Tools and Technologies
 
-	•	Programming Language: Python
-	•	Web Development: HTML
-	•	API Integration: DataDis API
-	•	Libraries: PyPDF2, Pandas, Flask, etc.
+- Programming Language: Python
+- Web Development: HTML
+- API Integration: DataDis API
+- Libraries: PyPDF2, Pandas, Flask, etc.
 
 ### Installation
 
@@ -70,4 +70,4 @@ Contributions are welcome! Please feel free to submit a pull request or open an 
 For any inquiries or further information, you can reach me at:
 
 - Email: **barbarasuarez91@gmail.com**
-- [LinkedIn](www.linkedin.com/in/barbara-suarez-868976ab)
+- LinkedIn: [Click here to go to my LinkedIn profile](https://www.linkedin.com/in/barbara-suarez-868976ab/) 
