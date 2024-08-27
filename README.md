@@ -23,6 +23,7 @@ I'm a data analyst with a background in Business and a passion for turning data 
 ![Power BI](https://img.shields.io/badge/Power%20BI-Data%20Visualization-yellow)
 ![Data Cleaning](https://img.shields.io/badge/Data%20Cleaning-Pandas-blue)
 ![Tableau](https://img.shields.io/badge/Tableau-Data%20Visualization-orange)
+![VSCode](https://img.shields.io/badge/VSCode-Editor-blue)
 ![Anaconda](https://img.shields.io/badge/Anaconda-Data%20Science%20Platform-green)
 ![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange)
 ![Data Visualization](https://img.shields.io/badge/Data%20Visualization-Matplotlib%20%26%20Seaborn-red)
