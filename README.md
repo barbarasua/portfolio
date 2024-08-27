@@ -18,9 +18,10 @@ Hi! I'm Barbara, a passionate data analyst with experience in Python, data visua
 I'm a data analyst with a background in Business and a passion for turning data into actionable insights. I'm continuously learning and applying my skills in real-world scenarios.
 
 ![Python](https://img.shields.io/badge/python-3.8-blue)
-![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange)
 ![SQL](https://img.shields.io/badge/SQL-Database-blue)
 ![Tableau](https://img.shields.io/badge/Tableau-Data%20Visualization-orange)
+![Anaconda](https://img.shields.io/badge/Anaconda-Data%20Science%20Platform-green)
+![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange)
 
 ## Contact
 Feel free to reach out if you have any questions or would like to collaborate:
