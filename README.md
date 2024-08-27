@@ -20,6 +20,7 @@ I'm a data analyst with a background in Business and a passion for turning data 
 ![Python](https://img.shields.io/badge/python-3.8-blue)
 ![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange)
 ![SQL](https://img.shields.io/badge/SQL-Database-blue)
+![Tableau](https://img.shields.io/badge/Tableau-Data%20Visualization-orange)
 
 ## Contact
 Feel free to reach out if you have any questions or would like to collaborate:
