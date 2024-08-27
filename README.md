@@ -19,9 +19,13 @@ I'm a data analyst with a background in Business and a passion for turning data 
 
 ![Python](https://img.shields.io/badge/python-3.8-blue)
 ![SQL](https://img.shields.io/badge/SQL-Database-blue)
+![Excel](https://img.shields.io/badge/Excel-Spreadsheet%20Software-green)
+![Power BI](https://img.shields.io/badge/Power%20BI-Data%20Visualization-yellow)
+![Data Cleaning](https://img.shields.io/badge/Data%20Cleaning-Pandas-blue)
 ![Tableau](https://img.shields.io/badge/Tableau-Data%20Visualization-orange)
 ![Anaconda](https://img.shields.io/badge/Anaconda-Data%20Science%20Platform-green)
 ![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange)
+![Data Visualization](https://img.shields.io/badge/Data%20Visualization-Matplotlib%20%26%20Seaborn-red)
 
 ## Contact
 Feel free to reach out if you have any questions or would like to collaborate:
