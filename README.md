@@ -29,18 +29,18 @@ This program extracts specific fields from PDF invoices, such as CUPS, total con
 To run this project locally, follow these steps:
 
 #### 1. Clone the Repository:
-
+```bash
 git clone https://github.com/yourusername/portfolio.git
- cd portfolio
-
+cd portfolio
+```
 #### 2. Install the Required Libraries:
- 
+```bash
 pip install -r requirements.txt
-
+```
 #### 3. Run the Program:
-
+```bash
 python app.py
-
+```
 ### Usage
 
 1. Login Page:
