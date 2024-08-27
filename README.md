@@ -4,7 +4,7 @@ Hi! I'm Barbara, a passionate data analyst with experience in Python, data visua
 
 ## Projects
 
-### [Tamarit Estudios PDF Data Extraction](./tamarit_estudios)
+### [Tamarit Estudios PDF Data Extraction](./Tamarit Estudios PDF Data Extraction)
 - **Description:** Automated data extraction from PDF invoices for Tamarit Estudios, integrating the process with DataDis API.
 - **Tools Used:** Python, HTML, DataDis API.
 - **Key Outcomes:** Optimized the company’s workflow, saving time and reducing errors.
