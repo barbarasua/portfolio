@@ -26,10 +26,10 @@ In this portfolio, you’ll find projects where I’ve uncovered insights while 
 ### [🌍 Venezuelan Diaspora Analysis](./venezuelan_diaspora)
 - **Description:** Organically gathered and analyzed survey data to explore the relationship between the geographic distribution of Venezuelans and their ancestral origins.
 - **Tools Used:** Python, Jupyter Notebook, Pandas, Microsoft Office.
-- **Key Outcomes:** Presented this project as a poster at the Honors & International Education Conference, Lone Star College.
+- **Key Outcomes:** Presented my analytical insights on a poster at the Honors & International Education Conference, Lone Star College.
 
 ## 👩‍💻 About Me
-I'm a data analyst with a background in Business and Customer Service and a passion for turning data into actionable insights. I'm continuously learning and applying my skills in real-world scenarios🚀 I moved to the US from Venezuela almost 9 years ago with very different plans, but today I am a STEM graduate starting a career in tech👀 When I'm not at my computer creating dashboards or working, you can find me at the climbing gym🧗🏽‍♀️
+I'm a data analyst with a background in Business and Customer Service and a passion for turning data into usable information. I'm continuously learning and applying my skills in real-world scenarios🚀 I moved to the US from Venezuela almost 9 years ago with very different plans, but today I am a STEM graduate starting a career in tech👀 When I'm not at my computer creating dashboards or working, you can find me at the climbing gym🧗🏽‍♀️
 
 ![Python](https://img.shields.io/badge/python-3.8-blue)
 ![SQL](https://img.shields.io/badge/SQL-Database-blue)
