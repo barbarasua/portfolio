@@ -4,7 +4,7 @@ Hi!👋🏽  I'm Barbara, a dedicated data analyst with a passion for turning ra
 
 Throughout my career, I’ve demonstrated a resourceful approach, continuously learning new techniques, and leveraging my coachability to adapt quickly in dynamic environments. 💡📊
 
-In this portfolio, you’ll find projects where I’ve applied my expertise in **Python**, **Excel**, **SQL**, and more to uncover insights, streamline processes, and deliver impactful results.
+In this portfolio, you’ll find projects where I’ve uncovered insights while applying my knowledge in **Python**, **Excel**, **Tableau**, delivering impactful results.
 
 ## 💼 Projects
 
