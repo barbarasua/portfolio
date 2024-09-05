@@ -60,4 +60,4 @@ If you have any feedback or suggestions, feel free to reach out!
 
 ## Contact
 - **LinkedIn**: [Click here](https://www.linkedin.com/in/barbara-suarez-868976ab/)
-- **GitHub**: [Click here](https://github.com/barbarasua/portfolio) 
+- **Email**: barbarasuarez91@gmail.com
