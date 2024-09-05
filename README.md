@@ -8,6 +8,11 @@ In this portfolio, you’ll find projects where I’ve uncovered insights while 
 
 ## 💼 Projects
 
+### [📊 King County House Sales Dashboard](./king_county_house_sales_dashboard)
+- **Description:** Built an interactive Tableau dashboard to analyze house sales data in King County, Washington, with filters for date, year built, square footage, and more.
+- **Tools Used:** Tableau.
+- **Key Outcomes:** Developed a dynamic dashboard using various visualizations (heat maps, line charts, histograms) to provide insights into house prices, distribution of bedrooms/bathrooms, and condition vs. view comparisons.
+
 ### [☕ Coffee Sales Dashboard](./coffee_sales_dashboard)
 - **Description:** Created an interactive dashboard using **Excel** for analyzing coffee sales data, showing trends by coffee type, sales by country, and top customers.
 - **Tools Used:** Excel, XLOOKUP, INDEX MATCH, Pivot Tables, Pivot Charts, Slicers, Timelines.
@@ -39,5 +44,5 @@ I'm a data analyst with a background in Business and a passion for turning data 
 
 ## 📬 Contact
 Feel free to reach out if you have any questions or would like to collaborate:
-- **Email:** [barbarasuarez91@gmail.com](mailto:your-email@example.com)
+- **Email:** [barbarasuarez91@gmail.com](mailto:barbarasuarez91@gmail.com)
 - **LinkedIn:** [Click here to go to my LinkedIn profile](https://www.linkedin.com/in/barbara-suarez-868976ab/)
