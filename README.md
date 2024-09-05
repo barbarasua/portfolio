@@ -8,7 +8,7 @@ In this portfolio, you’ll find projects where I’ve uncovered insights while 
 
 ## 💼 Projects
 
-### [📊 King County House Sales Dashboard](./king_county_house_sales_dashboard)
+### [📊 King County House Sales Dashboard](./washington_house_sales_analysis)
 - **Description:** Built an interactive Tableau dashboard to analyze house sales data in King County, Washington, with filters for date, year built, square footage, and more.
 - **Tools Used:** Tableau.
 - **Key Outcomes:** Developed a dynamic dashboard using various visualizations (heat maps, line charts, histograms) to provide insights into house prices, distribution of bedrooms/bathrooms, and condition vs. view comparisons.
