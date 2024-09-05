@@ -4,6 +4,11 @@ Hi! I'm Barbara, a passionate data analyst with experience in Python, data visua
 
 ## Projects
 
+### [Coffee Sales Dashboard](./coffee_sales_dashboard)
+- **Description:** Created an interactive dashboard using **Excel** for analyzing coffee sales data, showing trends by coffee type, sales by country, and top customers.
+- **Tools Used:** Excel, XLOOKUP, INDEX MATCH, Pivot Tables, Pivot Charts, Slicers, Timelines.
+- **Key Outcomes:** Provided a dynamic dashboard that enables users to filter and interact with the data in real time.
+
 ### [Tamarit Estudios PDF Data Extraction](./tamarit_estudios_data_extraction) 
 - **Description:** Automated data extraction from PDF invoices for Tamarit Estudios, integrating the process with DataDis API.
 - **Tools Used:** Python, HTML, DataDis API.
@@ -31,4 +36,4 @@ I'm a data analyst with a background in Business and a passion for turning data 
 ## Contact
 Feel free to reach out if you have any questions or would like to collaborate:
 - **Email:** [barbarasuarez91@gmail.com](mailto:your-email@example.com)
-- **LinkedIn:** [Click here to go to my LinkedIn profile](https://www.linkedin.com/in/barbara-suarez-868976ab/) 
+- **LinkedIn:** [Click here to go to my LinkedIn profile](https://www.linkedin.com/in/barbara-suarez-868976ab/)
