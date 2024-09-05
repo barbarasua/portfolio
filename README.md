@@ -15,12 +15,12 @@ In this portfolio, you’ll find projects where I’ve applied my expertise in *
 
 ### [📄 Tamarit Estudios PDF Data Extraction](./tamarit_estudios_data_extraction) 
 - **Description:** Automated data extraction from PDF invoices for Tamarit Estudios, integrating the process with **DataDis API**.
-- **Tools Used:** Python, HTML, DataDis API.
+- **Tools Used:** Python, HTML, DataDis API, Visual Studio Code.
 - **Key Outcomes:** Optimized the company’s workflow, saving time and reducing errors.
 
 ### [🌍 Venezuelan Diaspora Analysis](./venezuelan_diaspora)
 - **Description:** Analyzed survey data to explore the relationship between the geographic distribution of Venezuelans and their ancestral origins.
-- **Tools Used:** Python, Jupyter Notebook, Pandas.
+- **Tools Used:** Python, Jupyter Notebook, Pandas, Microsoft Office.
 - **Key Outcomes:** Presented this project as a poster at the Honors & International Education Conference, Lone Star College.
 
 ## 👩‍💻 About Me
