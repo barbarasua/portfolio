@@ -27,7 +27,7 @@ This project showcases the creation of a **dynamic, interactive Coffee Sales Das
 
 - **Interactive Filters**: Users can filter data by **roast type**, **coffee size**, and whether customers have a **loyalty card** using slicers and timelines.
 
-![Slicer and Timeline Interaction](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnl3dDZ3b25yd2tnejI2bDFmeWFlcWE0d3doNng2dHZpZnVvNTBkdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pFvVQu9X7r1Ws5sFpa/giphy.gif)
+[![Slicer and Timeline Interaction](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnl3dDZ3b25yd2tnejI2bDFmeWFlcWE0d3doNng2dHZpZnVvNTBkdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pFvVQu9X7r1Ws5sFpa/giphy.gif)](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2JydHFqM3RxZzl0NWJucGs3MXU0b256MGQyMnIxNGhxa3J6MWtuMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/DJOme14N3qxHWkb6d3/giphy.gif)
 
 ## Tools & Technologies
 - **Microsoft Excel**
