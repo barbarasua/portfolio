@@ -29,7 +29,7 @@ In this portfolio, you’ll find projects where I’ve uncovered insights while 
 - **Key Outcomes:** Presented this project as a poster at the Honors & International Education Conference, Lone Star College.
 
 ## 👩‍💻 About Me
-I'm a data analyst with a background in Business and a passion for turning data into actionable insights. I'm continuously learning and applying my skills in real-world scenarios. 🚀
+I'm a data analyst with a background in Business and Custoner Service and a passion for turning data into actionable insights. I'm continuously learning and applying my skills in real-world scenarios🚀 I moved to the US from Venezuela almost 9 years ago with very different plans, but today I am a STEM graduate starting a career in tech👀 When I'm not at my computer creating dashboards or working, you can find me at the climbing gym🧗🏽‍♀️
 
 ![Python](https://img.shields.io/badge/python-3.8-blue)
 ![SQL](https://img.shields.io/badge/SQL-Database-blue)
