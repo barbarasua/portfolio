@@ -1,6 +1,6 @@
 # 🎯 Welcome to My Data Analyst Portfolio
 
-Hi!👋🏽  I'm Barbara, a dedicated data analyst with a passion for turning raw data into actionable insights. I thrive on solving real-world problems through data analysis, using a combination of technical skills, creativity, and an analytical mindset. 
+Hi!👋🏽  I'm Barbara &mdash; Dedicated data analyst with a passion for turning raw data into actionable insights. I thrive on solving real-world problems through data analysis, using a combination of technical skills, creativity, and an analytical mindset. 
 
 Throughout my career, I’ve demonstrated a resourceful approach, continuously learning new techniques, and leveraging my coachability to adapt quickly in dynamic environments. 💡📊
 
