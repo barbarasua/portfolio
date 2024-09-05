@@ -24,7 +24,7 @@ In this portfolio, you’ll find projects where I’ve uncovered insights while 
 - **Key Outcomes:** Optimized the company’s workflow, saving time and reducing errors.
 
 ### [🌍 Venezuelan Diaspora Analysis](./venezuelan_diaspora)
-- **Description:** Analyzed survey data to explore the relationship between the geographic distribution of Venezuelans and their ancestral origins.
+- **Description:** Organically gathered and analyzed survey data to explore the relationship between the geographic distribution of Venezuelans and their ancestral origins.
 - **Tools Used:** Python, Jupyter Notebook, Pandas, Microsoft Office.
 - **Key Outcomes:** Presented this project as a poster at the Honors & International Education Conference, Lone Star College.
 
