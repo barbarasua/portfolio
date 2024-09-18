@@ -1,4 +1,4 @@
-# 🎯 Welcome to My Data Analyst Portfolio
+# 🎯 Welcome to My Portfolio
 
 Hi!👋🏽  I'm Barbara &mdash; Dedicated data analyst with a passion for turning raw data into actionable insights. I thrive on solving real-world problems through data analysis, using a combination of technical skills, creativity, and an analytical mindset. 
 
